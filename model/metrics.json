@@ -1,0 +1,9 @@
+{
+    "symbol": "DIS",
+    "time_steps": 60,
+    "epochs": 40,
+    "batch_size": 32,
+    "mae_test": 1.5114903898320646,
+    "rmse_test": 2.0782385182708722,
+    "mape_test": 1.6410121578215469
+}
